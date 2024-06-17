@@ -1,0 +1,27 @@
+0    [Thread-1] INFO  site.ycsb.db.DynamoDBClient  -dynamodb connection created with http://dynamodb.us-east-1.amazonaws.com
+[OVERALL], RunTime(ms), 113824
+[OVERALL], Throughput(ops/sec), 8.785493393308968
+[TOTAL_GCS_G1_Young_Generation], Count, 3
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 45
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 0.039534720269890355
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 3
+[TOTAL_GC_TIME], Time(ms), 45
+[TOTAL_GC_TIME_%], Time(%), 0.039534720269890355
+[READ], Operations, 1000
+[READ], AverageLatency(us), 113361.024
+[READ], MinLatency(us), 81984
+[READ], MaxLatency(us), 489983
+[READ], 50thPercentileLatency(us), 94527
+[READ], 75thPercentileLatency(us), 114175
+[READ], 90thPercentileLatency(us), 181887
+[READ], Return=OK, 1000
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 3.0
+[CLEANUP], MinLatency(us), 3
+[CLEANUP], MaxLatency(us), 3
+[CLEANUP], 50thPercentileLatency(us), 3
+[CLEANUP], 75thPercentileLatency(us), 3
+[CLEANUP], 90thPercentileLatency(us), 3
