@@ -1,0 +1,276 @@
+{
+  "workloade": [
+    {
+      "capacity": 5,
+      "throughput": 3.842429645113198,
+      "latencies": {
+        "p50": 93055,
+        "p75": 115839,
+        "p90": 184703
+      },
+      "cost": 0.0039,
+      "performance_per_dollar": 985.2383705418457
+    },
+    {
+      "capacity": 10,
+      "throughput": 4.400575595287863,
+      "latencies": {
+        "p50": 94847,
+        "p75": 112831,
+        "p90": 130943
+      },
+      "cost": 0.0078,
+      "performance_per_dollar": 564.176358370239
+    },
+    {
+      "capacity": 25,
+      "throughput": 3.6945630809700445,
+      "latencies": {
+        "p50": 93887,
+        "p75": 111679,
+        "p90": 167679
+      },
+      "cost": 0.0195,
+      "performance_per_dollar": 189.4647733830792
+    },
+    {
+      "capacity": 20,
+      "throughput": 3.7522184991876446,
+      "latencies": {
+        "p50": 98559,
+        "p75": 122431,
+        "p90": 187007
+      },
+      "cost": 0.0156,
+      "performance_per_dollar": 240.52682687100287
+    },
+    {
+      "capacity": 15,
+      "throughput": 4.51687504516875,
+      "latencies": {
+        "p50": 98495,
+        "p75": 120511,
+        "p90": 184319
+      },
+      "cost": 0.0117,
+      "performance_per_dollar": 386.0576961682692
+    }
+  ],
+  "workloada": [
+    {
+      "capacity": 10,
+      "throughput": 8.888493844718013,
+      "latencies": {
+        "p50": 92735.0,
+        "p75": 113727.0,
+        "p90": 180351.0
+      },
+      "cost": 0.0078,
+      "performance_per_dollar": 1139.550492912566
+    },
+    {
+      "capacity": 15,
+      "throughput": 8.454157331867947,
+      "latencies": {
+        "p50": 96063.0,
+        "p75": 114431.0,
+        "p90": 180991.0
+      },
+      "cost": 0.0117,
+      "performance_per_dollar": 722.5775497323032
+    },
+    {
+      "capacity": 5,
+      "throughput": 8.653962649497204,
+      "latencies": {
+        "p50": 92351.0,
+        "p75": 114367.0,
+        "p90": 188031.0
+      },
+      "cost": 0.0039,
+      "performance_per_dollar": 2218.96478192236
+    },
+    {
+      "capacity": 20,
+      "throughput": 8.687493484379887,
+      "latencies": {
+        "p50": 93119.0,
+        "p75": 113727.0,
+        "p90": 186751.0
+      },
+      "cost": 0.0156,
+      "performance_per_dollar": 556.8906079730697
+    },
+    {
+      "capacity": 25,
+      "throughput": 8.501015871396632,
+      "latencies": {
+        "p50": 96063.0,
+        "p75": 115967.0,
+        "p90": 184447.0
+      },
+      "cost": 0.0195,
+      "performance_per_dollar": 435.94953186649394
+    }
+  ],
+  "workloadc": [
+    {
+      "capacity": 20,
+      "throughput": 8.785493393308968,
+      "latencies": {
+        "p50": 94527.0,
+        "p75": 114175.0,
+        "p90": 181887.0
+      },
+      "cost": 0.0156,
+      "performance_per_dollar": 563.1726534172416
+    },
+    {
+      "capacity": 25,
+      "throughput": 8.39806844425782,
+      "latencies": {
+        "p50": 97471.0,
+        "p75": 116671.0,
+        "p90": 180351.0
+      },
+      "cost": 0.0195,
+      "performance_per_dollar": 430.67017662860616
+    },
+    {
+      "capacity": 10,
+      "throughput": 8.806848205164336,
+      "latencies": {
+        "p50": 94015.0,
+        "p75": 112703.0,
+        "p90": 181503.0
+      },
+      "cost": 0.0078,
+      "performance_per_dollar": 1129.083103226197
+    },
+    {
+      "capacity": 5,
+      "throughput": 8.719916288803628,
+      "latencies": {
+        "p50": 93503.0,
+        "p75": 115455.0,
+        "p90": 182655.0
+      },
+      "cost": 0.0039,
+      "performance_per_dollar": 2235.87597148811
+    },
+    {
+      "capacity": 15,
+      "throughput": 8.702008423544154,
+      "latencies": {
+        "p50": 95039.0,
+        "p75": 115583.0,
+        "p90": 181631.0
+      },
+      "cost": 0.0117,
+      "performance_per_dollar": 743.7614037217226
+    }
+  ],
+  "workloadb": [
+    {
+      "capacity": 25,
+      "throughput": 8.314901967305806,
+      "latencies": {
+        "p50": 94335.0,
+        "p75": 114303.0,
+        "p90": 189311.0
+      },
+      "cost": 0.0195,
+      "performance_per_dollar": 426.40522909260545
+    },
+    {
+      "capacity": 10,
+      "throughput": 8.506439374606577,
+      "latencies": {
+        "p50": 93631.0,
+        "p75": 114111.0,
+        "p90": 189823.0
+      },
+      "cost": 0.0078,
+      "performance_per_dollar": 1090.5691505905868
+    },
+    {
+      "capacity": 15,
+      "throughput": 8.77470078270331,
+      "latencies": {
+        "p50": 93823.0,
+        "p75": 113343.0,
+        "p90": 183935.0
+      },
+      "cost": 0.0117,
+      "performance_per_dollar": 749.9744258720777
+    },
+    {
+      "capacity": 5,
+      "throughput": 8.590032126720153,
+      "latencies": {
+        "p50": 94015.0,
+        "p75": 114623.0,
+        "p90": 187647.0
+      },
+      "cost": 0.0039,
+      "performance_per_dollar": 2202.572340184655
+    },
+    {
+      "capacity": 20,
+      "throughput": 8.589146754161442,
+      "latencies": {
+        "p50": 93055.0,
+        "p75": 115839.0,
+        "p90": 184703.0
+      },
+      "cost": 0.0156,
+      "performance_per_dollar": 550.5863303949643
+    }
+  ],
+  "workloadd": [
+    {
+      "capacity": 20,
+      "throughput": 8.698299482451182,
+      "latencies": {
+        "p50": 94143.0,
+        "p75": 113535.0,
+        "p90": 179327.0
+      },
+      "cost": 0.0156,
+      "performance_per_dollar": 557.583300157127
+    },
+    {
+      "capacity": 10,
+      "throughput": 8.812902088657795,
+      "latencies": {
+        "p50": 93503.0,
+        "p75": 113215.0,
+        "p90": 178815.0
+      },
+      "cost": 0.0078,
+      "performance_per_dollar": 1129.8592421356147
+    },
+    {
+      "capacity": 25,
+      "throughput": 8.945023883213768,
+      "latencies": {
+        "p50": 93567.0,
+        "p75": 111487.0,
+        "p90": 176383.0
+      },
+      "cost": 0.0195,
+      "performance_per_dollar": 458.7191734981419
+    },
+    {
+      "capacity": 15,
+      "throughput": 8.879890599747812,
+      "latencies": {
+        "p50": 93439.0,
+        "p75": 112255.0,
+        "p90": 178815.0
+      },
+      "cost": 0.0117,
+      "performance_per_dollar": 758.965008525454
+    }
+  ]
+}
